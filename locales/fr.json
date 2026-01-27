@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "testimonials": "Témoignages",
+    "tutorials": "Tutoriels",
+    "contact": "Contact",
+    "login": "Connexion",
+    "darkMode": "Mode sombre"
+  },
+  "hero": {
+    "title": "Votre maison intelligente, protégée et entretenue",
+    "subtitle": "HomeGuardian est l'assistant intelligent qui veille sur votre maison 24/7. Maintenance prédictive, sécurité renforcée et contrôle total de vos équipements connectés.",
+    "downloadApp": "Télécharger l'application",
+    "loginAccount": "Accéder à mon compte",
+    "availableOn": "Disponible sur iOS et Android"
+  },
+  "features": {
+    "title": "Fonctionnalités intelligentes",
+    "subtitle": "Tout ce dont vous avez besoin pour une maison sûre et bien entretenue",
+    "ai": {
+      "title": "Intelligence Artificielle",
+      "description": "Notre IA analyse en temps réel l'état de votre maison et anticipe les besoins de maintenance avant qu'un problème ne survienne."
+    },
+    "tutorials": {
+      "title": "Tutoriels Vidéo",
+      "description": "Accédez à une bibliothèque complète de tutoriels pour réparer et entretenir votre maison vous-même, étape par étape."
+    },
+    "professionals": {
+      "title": "Contact Professionnels",
+      "description": "Trouvez et contactez instantanément des professionnels qualifiés près de chez vous pour tous vos travaux."
+    },
+    "smarthome": {
+      "title": "Maison Connectée",
+      "description": "Contrôlez tous vos appareils IoT depuis une seule interface. Compatible avec les principales marques du marché."
+    },
+    "security": {
+      "title": "Sécurité Renforcée",
+      "description": "Surveillance 24/7, alertes en temps réel et notifications intelligentes pour protéger votre foyer."
+    },
+    "maintenance": {
+      "title": "Maintenance Prédictive",
+      "description": "Recevez des rappels personnalisés et des recommandations pour l'entretien de vos équipements."
+    }
+  },
+  "pricing": {
+    "title": "Choisissez votre formule",
+    "subtitle": "Des plans adaptés à tous les besoins",
+    "perMonth": "/mois",
+    "popular": "Populaire",
+    "subscribe": "S'abonner",
+    "basic": {
+      "name": "Essentiel",
+      "price": "9,99€",
+      "feature1": "Surveillance de base 24/7",
+      "feature2": "Alertes en temps réel",
+      "feature3": "5 appareils connectés",
+      "feature4": "Tutoriels de base",
+      "feature5": "Support par email"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "19,99€",
+      "feature1": "Tout du plan Essentiel",
+      "feature2": "IA prédictive avancée",
+      "feature3": "15 appareils connectés",
+      "feature4": "Bibliothèque complète de tutoriels",
+      "feature5": "Contact direct avec pros",
+      "feature6": "Support prioritaire 24/7"
+    },
+    "professional": {
+      "name": "Professionnel",
+      "price": "39,99€",
+      "feature1": "Tout du plan Premium",
+      "feature2": "Appareils illimités",
+      "feature3": "Analyses détaillées et rapports",
+      "feature4": "API et intégrations avancées",
+      "feature5": "Gestionnaire de compte dédié",
+      "feature6": "Formation personnalisée",
+      "feature7": "SLA garanti 99,9%"
+    },
+    "promo": {
+      "title": "Offre de lancement : 30 jours gratuits",
+      "subtitle": "Téléchargez l'application maintenant et profitez d'un mois complet sans engagement",
+      "ios": "Télécharger sur iOS",
+      "android": "Télécharger sur Android"
+    }
+  },
+  "testimonials": {
+    "title": "Ce que disent nos utilisateurs",
+    "subtitle": "Plus de 50 000 foyers nous font confiance"
+  },
+  "tutorials": {
+    "title": "Bibliothèque de tutoriels",
+    "subtitle": "Apprenez à entretenir votre maison comme un pro",
+    "viewAll": "Voir tous les tutoriels"
+
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question ? Notre équipe est là pour vous aider",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "description": "L'assistant intelligent pour la maintenance et la sécurité de votre maison.",
+    "product": "Produit",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "download": "Télécharger",
+    "company": "Entreprise",
+    "about": "À propos",
+    "blog": "Blog",
+    "careers": "Carrières",
+    "support": "Support",
+    "help": "Aide",
+    "documentation": "Documentation",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  },
+  "notifications": {
+    "waterLeak": "Fuite d'eau détectée dans la salle de bain",
+    "maintenance": "Rappel : Changement du filtre à air",
+    "security": "Mouvement détecté à l'entrée principale"
+  }
+}

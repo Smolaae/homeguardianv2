@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "testimonials": "Testimonials",
+    "tutorials": "Tutorials",
+    "contact": "Contact",
+    "login": "Login",
+    "darkMode": "Dark mode"
+  },
+  "hero": {
+    "title": "Your smart home, protected and maintained",
+    "subtitle": "HomeGuardian is the intelligent assistant that watches over your home 24/7. Predictive maintenance, enhanced security, and total control of your connected devices.",
+    "downloadApp": "Download the app",
+    "loginAccount": "Access my account",
+    "availableOn": "Available on iOS and Android"
+  },
+  "features": {
+    "title": "Smart features",
+    "subtitle": "Everything you need for a safe and well-maintained home",
+    "ai": {
+      "title": "Artificial Intelligence",
+      "description": "Our AI analyzes your home's condition in real-time and anticipates maintenance needs before problems occur."
+    },
+    "tutorials": {
+      "title": "Video Tutorials",
+      "description": "Access a complete library of tutorials to repair and maintain your home yourself, step by step."
+    },
+    "professionals": {
+      "title": "Professional Contact",
+      "description": "Find and instantly contact qualified professionals near you for all your work needs."
+    },
+    "smarthome": {
+      "title": "Connected Home",
+      "description": "Control all your IoT devices from a single interface. Compatible with major market brands."
+    },
+    "security": {
+      "title": "Enhanced Security",
+      "description": "24/7 monitoring, real-time alerts, and smart notifications to protect your home."
+    },
+    "maintenance": {
+      "title": "Predictive Maintenance",
+      "description": "Receive personalized reminders and recommendations for maintaining your equipment."
+    }
+  },
+  "pricing": {
+    "title": "Choose your plan",
+    "subtitle": "Plans adapted to all needs",
+    "perMonth": "/month",
+    "popular": "Popular",
+    "subscribe": "Subscribe",
+    "basic": {
+      "name": "Essential",
+      "price": "$9.99",
+      "feature1": "Basic 24/7 monitoring",
+      "feature2": "Real-time alerts",
+      "feature3": "5 connected devices",
+      "feature4": "Basic tutorials",
+      "feature5": "Email support"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "$19.99",
+      "feature1": "Everything in Essential",
+      "feature2": "Advanced predictive AI",
+      "feature3": "15 connected devices",
+      "feature4": "Complete tutorial library",
+      "feature5": "Direct contact with pros",
+      "feature6": "Priority 24/7 support"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "$39.99",
+      "feature1": "Everything in Premium",
+      "feature2": "Unlimited devices",
+      "feature3": "Detailed analytics and reports",
+      "feature4": "API and advanced integrations",
+      "feature5": "Dedicated account manager",
+      "feature6": "Personalized training",
+      "feature7": "99.9% SLA guaranteed"
+    },
+    "promo": {
+      "title": "Launch offer: 30 days free",
+      "subtitle": "Download the app now and enjoy a full month with no commitment",
+      "ios": "Download on iOS",
+      "android": "Download on Android"
+    }
+  },
+  "testimonials": {
+    "title": "What our users say",
+    "subtitle": "Over 50,000 households trust us"
+  },
+  "tutorials": {
+    "title": "Tutorial library",
+    "subtitle": "Learn to maintain your home like a pro",
+    "viewAll": "View all tutorials"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Have a question? Our team is here to help",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "subject": "Subject",
+      "message": "Your message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "footer": {
+    "description": "The intelligent assistant for your home's maintenance and security.",
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "download": "Download",
+    "company": "Company",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "support": "Support",
+    "help": "Help",
+    "documentation": "Documentation",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "notifications": {
+    "waterLeak": "Water leak detected in bathroom",
+    "maintenance": "Reminder: Air filter change",
+    "security": "Motion detected at main entrance"
+  }
+}
