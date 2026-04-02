@@ -76,27 +76,7 @@ function updateTestimonials() {
   })
 }
 
-// Dark Mode Toggle
-const darkModeToggle = document.getElementById("darkModeToggle")
-const html = document.documentElement
 
-// Check for saved dark mode preference
-const savedDarkMode = localStorage.getItem("darkMode")
-if (savedDarkMode === "enabled") {
-  html.classList.add("dark")
-  document.body.classList.add("dark-mode")
-}
-
-darkModeToggle.addEventListener("click", () => {
-  const isDarkMode = html.classList.toggle("dark")
-  document.body.classList.toggle("dark-mode")
-
-  if (isDarkMode) {
-    localStorage.setItem("darkMode", "enabled")
-  } else {
-    localStorage.setItem("darkMode", "disabled")
-  }
-})
 
 // Smooth Scroll
 document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
@@ -187,21 +167,7 @@ document.querySelectorAll(".video-thumbnail").forEach((thumbnail) => {
   })
 })
 
-// Navbar scroll effect
-let lastScroll = 0
-const navbar = document.querySelector("nav")
 
-window.addEventListener("scroll", () => {
-  const currentScroll = window.pageYOffset
-
-  if (currentScroll > 100) {
-    navbar.style.boxShadow = "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
-  } else {
-    navbar.style.boxShadow = "0 1px 3px 0 rgba(0, 0, 0, 0.1)"
-  }
-
-  lastScroll = currentScroll
-})
 
 // Initialize
 loadTranslations(currentLanguage)
